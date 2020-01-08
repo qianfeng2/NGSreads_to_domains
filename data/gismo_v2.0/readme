@@ -1,0 +1,26 @@
+
+Extract executables by typing "tar xvf gismo_v2.0.tar"
+
+Linux ('gismo') and Mac ('gismo.mac') versions are in the 'gismo_v2.0' directory.
+
+The executable 'gismo' was compiled under a RedHat 5.9 Linux operating system 
+(kernelrelease 2.6.18-371.1.2.el5) running on an Intel Xeon x86_64 machine.
+
+Type ./gismo  for usage.
+
+Extract CDD benchmark sets by typing "uncompress cdd_test_sets.tar.Z; tar xvf cdd_test_sets.tar"
+
+The 'cdd_test_sets' directory contains CDD 'gold standard' alignments in fasta (cd00000.fasta) 
+format.  It also contains the corresponding sequence sets (cd00000_gld.seq files). 
+
+For further information contact:
+ Andrew F. Neuwald
+ Institute for Genome Sciences and
+ Department of Biochemistry & Molecular Biology
+ University of Maryland School of Medicine
+ 801 West Baltimore St.
+ BioPark II, Room 617
+ Baltimore, MD 21201
+ Tel: 410-706-6724; Fax: 410-706-1482; E-mail: aneuwald@som.umaryland.edu
+ Home page: http://www.igs.umaryland.edu/~aneuwald
+

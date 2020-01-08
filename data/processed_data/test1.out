@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+PFI1830c_DBLa0.1     -          DBLa0.1              -              4e-52  164.9   0.0   4.5e-52  164.8   0.0   1.0   1   0   0   1   1   1   1 -
+PFCLINvar30          -          DBLa0.1              -            1.2e-45  143.6   0.0   1.3e-45  143.4   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/fengqian/Downloads/reads_to_domains-master/data/processed_data/CIDRa1.1_and_DBLa0.1.hmm
+# Target file:     /Users/fengqian/Downloads/reads_to_domains-master/data/processed_data/test.fasta
+# Option settings: hmmsearch --tblout test1.out --nobias --nonull2 /Users/fengqian/Downloads/reads_to_domains-master/data/processed_data/CIDRa1.1_and_DBLa0.1.hmm /Users/fengqian/Downloads/reads_to_domains-master/data/processed_data/test.fasta 
+# Current dir:     /Users/fengqian/hmmer-3.2.1
+# Date:            Fri Feb  1 09:54:23 2019
+# [ok]
