@@ -1,4 +1,4 @@
-# This pipeline is forked from [Github](https://github.com/UniMelb-Day-Lab/classifyDBLalpha) pipeline
+
 # Allocate NGS reads to protein domains
 This python program wraps Uproc and HMMER3 allowing for the fast identification of NGS reads that belong to HMMER PHMMs. It was designed to be used with the protein domains of the Plasomdium falciparum VAR gene family but could be used for other domain models. By leverageing the speed of Uproc and the sensitivity of HMMER we are able to quickly annotate longer reads to smaller domain profiles.
 
@@ -16,3 +16,5 @@ Options:
   -o OUTDIR, --outdir=OUTDIR
                         the output directory for files
 ```
+
+Note: This pipeline is forked from Github [pipeline](https://github.com/UniMelb-Day-Lab/classifyDBLalpha), written by Gerry Tonkin-Hill.
