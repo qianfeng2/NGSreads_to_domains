@@ -5,7 +5,7 @@ This DNA file all_var_exon1_dna_domains.fasta comes from Michael Duffy.If we hav
 
 When we translate these DNA sequences to proteins, choose the frame with smallest number of stop codons. Even though there are 163 unique domains, but Gerry send me 150 msgs, actually he collapse NTS domain. 
 
-Alignment tool is cluster Omega at the domain level
+Alignment tool is [Clustal Omega](http://www.clustal.org/omega/) at the domain level
 
 Gismo alignment tool is one potential alignment for longer var gene.
 
